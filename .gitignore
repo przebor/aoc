@@ -1,1 +1,5 @@
 input.txt
+*.in
+.vscode
+main
+a
